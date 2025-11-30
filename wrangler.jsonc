@@ -1,5 +1,5 @@
 {
-    "name": "uas-simulasi-parkir-dfa",
+    "name": "dfa-parking-system",
     "compatibility_date": "2025-11-30",
     "assets": {
         "directory": "./dist"
